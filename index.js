@@ -5,7 +5,7 @@ it('is set as Scuber', function () {
 
 
 
-let mostProfitableNeighborhood === 'Chelsea';
+let mostProfitableNeighborhood = 'Chelsea';
 function () {
   expect(mostProfitableNeighborhood).to.equal('Chelsea');
 });// Code your solution in this file!
